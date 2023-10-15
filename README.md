@@ -1,5 +1,5 @@
-# Raspagem de dados e análise do campeonato brasileiro série A e B entre os anos 2012 e 2023 
-### English version above
+# Raspagem de dados e análise do campeonato brasileiro série A e B entre os anos 2012 e 2023 - Data scraping and analysis of the Brazilian Serie A and B championships between 2012 and 2023.
+### English version above 
 ---
 
 # Sumário
@@ -71,6 +71,8 @@ O notebook contendo a análise dos dados está localizado na raiz do projeto com
 ---
 
 # English Version
+
+# Data scraping and analysis of the Brazilian Serie A and B championships between 2012 and 2023.
 
 ### Skills
 - Use of scrapy for data scraping from the CBF website;
