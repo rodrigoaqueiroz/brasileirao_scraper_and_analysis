@@ -69,6 +69,58 @@ O notebook contendo a análise dos dados está localizado na raiz do projeto com
 - Dentro dos dados estudados, não há diferença significativa na diferença de gols marcos e gols sofridos para a colocação final do time na série A. Já na série B, mostrou que os gols marcados tem um peso maior.
 
 ---
+
+# English Version
+
+### Skills
+- Use of scrapy for data scraping from the CBF website;
+- Utilization of scrapyrt to set up as an API
+- Exploratory data analysis;
+- Use of ML models
+
+### Analysis
+- Graphics and maps of team distribution by states and regions;
+- Checking the percentage of goals scored by each edition's top scorer;
+- Discovered the best and worst winner of each competition, as well as the worst and best seventeenth-placed team (the first relegated team);
+- Creation of a generic function to discover the best and worst in each position in the championships;
+- ML model to see if the data can answer the hypothesis that not conceding a goal is more important than scoring one;
+
+### How to Run
+Create and activate the virtual environment
+
+```bash
+$ python3 -m venv .venv
+$ source .venv/bin/activate
+```
+
+Install project dependencies
+
+```bash
+$ python3 -m pip install -r requirements.txt
+```
+
+In the project folder, run scrapyrt:
+
+```bash
+$ scrapyrt
+```
+The scrapyrt command will be used to start the API responsible for providing the data for analysis. The API data is obtained through Scrapy, and the default port is 9080. The terminal will provide the corresponding URL. If all goes well, the URL 'http://localhost:9080/crawl.json?spider_name=cbf_spider&url=https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a' will be functional and will display a JSON with the latest data from the 2023 Brazilian Serie A.
+
+Furthermore, I have provided the 'output.json' file with the extracted data on 15/10/2023. Therefore, if you prefer to avoid real-time scraping and perform static analysis, the 'output.json' file can be used for this purpose.
+
+The notebook containing the data analysis is located in the project root with the title 'Analysis.ipynb'. There is also an English version of the same notebook entitled 'Analysis-EN.ipynb.'
+
+### Discoveries
+
+Within the analyzed period, Flamengo was both the best and worst winner. The best was in 2019, with 90 points, where they achieved 78% of the points. The worst was the following year, where they won with only 71 points (62% efficiency).
+Botafogo is above the average of the champions. Currently, they have a 70% efficiency, so if they maintain this average until the end of the championship, it is very likely that they will win the 2023 Brazilian Serie A.
+Gabriel Barbosa was the top scorer for two years within the 2012~2023 period, in 2018 for Santos and in 2019 for Flamengo.
+Cano was the top scorer in the series who scored the most goals and also had the highest percentage of the team's goals. In 2022, he scored 27 out of 63 goals for Fluminense, accounting for 42.85% of the team's goals in the championship, scored by Cano.
+
+The team that was relegated with the most points from Serie A to B was Portuguesa in 2013, with 44 points. The worst seventeenth-placed team was Cruzeiro in 2019, with only 36 points.
+Within the studied data, there is no significant difference in the difference between goals scored and goals conceded for the team's final placement in Serie A. In Serie B, it was shown that the goals scored carry more weight.
+
+---
 # Contatos
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
