@@ -32,20 +32,20 @@
 
 # Como Rodar
 
-- Criar e ativar o ambiente virtual
+Criar e ativar o ambiente virtual
 
 ```bash
 $ python3 -m venv .venv
 $ source .venv/bin/activate
 ```
 
-- Instalar as dependências do projeto
+Instalar as dependências do projeto
 
 ```bash
 $ python3 -m pip install -r dev-requirements.txt
 ```
 
-- Na pasta do projeto, rodar o scrapyrt:
+Na pasta do projeto, rodar o scrapyrt:
 
 ```bash
 $ scrapyrt
@@ -55,7 +55,7 @@ O comando scrapyrt erá usado para iniciar a API responsável por fornecer os da
 
 Além disso, disponibilizei o arquivo 'output.json' com os dados extraídos no dia 15/10/2023. Portanto, se preferir evitar a raspagem em tempo real e realizar a análise estática, o arquivo 'output.json' pode ser usado para esse fim.
 
-- O notebook contendo a análise dos dados está localizado na raiz do projeto com o título 'Analysis.ipynb'. Há também uma versão em inglês do mesmo notebook intitulada 'Analysis-EN.ipynb';
+O notebook contendo a análise dos dados está localizado na raiz do projeto com o título 'Analysis.ipynb'. Há também uma versão em inglês do mesmo notebook intitulada 'Analysis-EN.ipynb';
 ---
 
 # Descobertas
@@ -73,20 +73,20 @@ Além disso, disponibilizei o arquivo 'output.json' com os dados extraídos no d
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <div style="display: flex; align-items: center;">
-      <img src="./assets/images/linkedin-logo.png" alt="linkedin-logo" style="width:20px; padding: 5px"/> <a href='https://www.linkedin.com/in/rodrigoandradequeiroz/'> https://www.linkedin.com/in/rodrigoandradequeiroz/
+      <img src="./src/images/linkedin-logo.png" alt="linkedin-logo" style="width:20px; padding: 5px"/> <a href='https://www.linkedin.com/in/rodrigoandradequeiroz/'> https://www.linkedin.com/in/rodrigoandradequeiroz/
       </a>
     </div>
     <br/>
     <div style="display: flex;align-items: center;">
-      <img src="./assets/images/github-logo.png" alt="github-logo" style="width:20px; padding: 5px"/> 
+      <img src="./src/images/github-logo.png" alt="github-logo" style="width:20px; padding: 5px"/> 
       <a href='https://github.com/rodrigoaqueiroz'>
       https://github.com/rodrigoaqueiroz
       </a>
     </div>
     <br/>
     <div style="display: flex;align-items: center;">
-      <img src="./assets/images/email-logo.png" alt="email-logo" style= 'width:20px; padding: 5px'/></img>
+      <img src="./src/images/email-logo.png" alt="email-logo" style= 'width:20px; padding: 5px'/></img>
       <a href="mailto:rodrigoandradequeiroz@gmail.com">rodrigoandradequeiroz@gmail.com</a>
     </div>
-    
+
 ---
