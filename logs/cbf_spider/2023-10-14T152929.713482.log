@@ -1,0 +1,69 @@
+2023-10-14 15:29:33 [scrapy] DEBUG: Crawled (200) <GET https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013> (referer: None)
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '1', 'team': 'Palmeiras - SP', 'points': '79', 'games': '38', 'wins': '24', 'draws': '7', 'losses': '7', 'goals_for': '71', 'goals_against': '28', 'goal_difference': '43', 'percentage': '69', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '2', 'team': 'Chapecoense - SC', 'points': '72', 'games': '38', 'wins': '20', 'draws': '12', 'losses': '6', 'goals_for': '60', 'goals_against': '31', 'goal_difference': '29', 'percentage': '63', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '3', 'team': 'Sport - PE', 'points': '63', 'games': '38', 'wins': '20', 'draws': '3', 'losses': '15', 'goals_for': '64', 'goals_against': '56', 'goal_difference': '8', 'percentage': '55', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '4', 'team': 'Figueirense - SC', 'points': '60', 'games': '38', 'wins': '18', 'draws': '6', 'losses': '14', 'goals_for': '63', 'goals_against': '52', 'goal_difference': '11', 'percentage': '52', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '5', 'team': 'Icasa - CE', 'points': '59', 'games': '38', 'wins': '18', 'draws': '5', 'losses': '15', 'goals_for': '50', 'goals_against': '54', 'goal_difference': '-4', 'percentage': '51', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '6', 'team': 'Joinville - SC', 'points': '59', 'games': '38', 'wins': '17', 'draws': '8', 'losses': '13', 'goals_for': '58', 'goals_against': '44', 'goal_difference': '14', 'percentage': '51', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '7', 'team': 'Ceará - CE', 'points': '59', 'games': '38', 'wins': '16', 'draws': '11', 'losses': '11', 'goals_for': '60', 'goals_against': '50', 'goal_difference': '10', 'percentage': '51', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '8', 'team': 'Paraná - PR', 'points': '57', 'games': '38', 'wins': '16', 'draws': '9', 'losses': '13', 'goals_for': '55', 'goals_against': '39', 'goal_difference': '16', 'percentage': '50', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '9', 'team': 'América - MG', 'points': '57', 'games': '38', 'wins': '14', 'draws': '15', 'losses': '9', 'goals_for': '51', 'goals_against': '42', 'goal_difference': '9', 'percentage': '50', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '10', 'team': 'Avaí - SC', 'points': '56', 'games': '38', 'wins': '16', 'draws': '8', 'losses': '14', 'goals_for': '49', 'goals_against': '46', 'goal_difference': '3', 'percentage': '49', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '11', 'team': 'Boa - MG', 'points': '50', 'games': '38', 'wins': '13', 'draws': '11', 'losses': '14', 'goals_for': '33', 'goals_against': '46', 'goal_difference': '-13', 'percentage': '43', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '12', 'team': 'Bragantino - SP', 'points': '47', 'games': '38', 'wins': '13', 'draws': '8', 'losses': '17', 'goals_for': '37', 'goals_against': '43', 'goal_difference': '-6', 'percentage': '41', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '13', 'team': 'América - RN', 'points': '47', 'games': '38', 'wins': '11', 'draws': '14', 'losses': '13', 'goals_for': '48', 'goals_against': '56', 'goal_difference': '-8', 'percentage': '41', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '14', 'team': 'Abc - RN', 'points': '46', 'games': '38', 'wins': '13', 'draws': '7', 'losses': '18', 'goals_for': '45', 'goals_against': '58', 'goal_difference': '-13', 'percentage': '40', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '15', 'team': 'Oeste - SP', 'points': '46', 'games': '38', 'wins': '11', 'draws': '13', 'losses': '14', 'goals_for': '44', 'goals_against': '58', 'goal_difference': '-14', 'percentage': '40', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '16', 'team': 'Atlético - GO', 'points': '44', 'games': '38', 'wins': '12', 'draws': '8', 'losses': '18', 'goals_for': '42', 'goals_against': '51', 'goal_difference': '-9', 'percentage': '38', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '17', 'team': 'Guaratinguetá - SP', 'points': '41', 'games': '38', 'wins': '11', 'draws': '8', 'losses': '19', 'goals_for': '42', 'goals_against': '54', 'goal_difference': '-12', 'percentage': '35', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '18', 'team': 'Paysandu - PA', 'points': '40', 'games': '38', 'wins': '10', 'draws': '10', 'losses': '18', 'goals_for': '40', 'goals_against': '56', 'goal_difference': '-16', 'percentage': '35', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '19', 'team': 'São Caetano - SP', 'points': '36', 'games': '38', 'wins': '9', 'draws': '9', 'losses': '20', 'goals_for': '45', 'goals_against': '59', 'goal_difference': '-14', 'percentage': '31', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2013>
+{'year': '2013', 'position': '20', 'team': 'A.s.a. - AL', 'points': '35', 'games': '38', 'wins': '11', 'draws': '2', 'losses': '25', 'goals_for': '41', 'goals_against': '75', 'goal_difference': '-34', 'percentage': '30', 'top_player_scorer': {'team': 'Chapecoense - SC', 'name': 'Bruno', 'goals': '31'}}
+2023-10-14 15:29:33 [scrapy] INFO: Closing spider (finished)
+2023-10-14 15:29:33 [scrapy] INFO: Stored json feed (20 items) in: output.json
+2023-10-14 15:29:33 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 280,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 156633,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 4.245037,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 10, 14, 18, 29, 33, 963009),
+ 'httpcompression/response_bytes': 1206929,
+ 'httpcompression/response_count': 1,
+ 'item_scraped_count': 20,
+ 'log_count/DEBUG': 21,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'memusage/max': 195117056,
+ 'memusage/startup': 195117056,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2023, 10, 14, 18, 29, 29, 717972)}
+2023-10-14 15:29:33 [scrapy] INFO: Spider closed (finished)

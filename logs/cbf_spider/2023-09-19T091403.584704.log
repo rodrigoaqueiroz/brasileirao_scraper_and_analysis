@@ -1,0 +1,71 @@
+2023-09-19 09:14:05 [scrapy] DEBUG: Redirecting (302) to <GET https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a> from <GET https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2001>
+2023-09-19 09:14:11 [scrapy] DEBUG: Crawled (200) <GET https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a> (referer: None)
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '1', 'team': 'Botafogo - RJ', 'points': '51', 'games': '23', 'wins': '16', 'draws': '3', 'losses': '4', 'goals_for': '39', 'goals_against': '14', 'goal_difference': '25', 'percentage': '73', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '2', 'team': 'Palmeiras - SP', 'points': '44', 'games': '23', 'wins': '12', 'draws': '8', 'losses': '3', 'goals_for': '38', 'goals_against': '17', 'goal_difference': '21', 'percentage': '63', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '3', 'team': 'Grêmio - RS', 'points': '40', 'games': '23', 'wins': '12', 'draws': '4', 'losses': '7', 'goals_for': '38', 'goals_against': '31', 'goal_difference': '7', 'percentage': '57', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '4', 'team': 'Flamengo - RJ', 'points': '39', 'games': '23', 'wins': '11', 'draws': '6', 'losses': '6', 'goals_for': '36', 'goals_against': '30', 'goal_difference': '6', 'percentage': '56', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '5', 'team': 'Red Bull Bragantino - SP', 'points': '39', 'games': '23', 'wins': '10', 'draws': '9', 'losses': '4', 'goals_for': '31', 'goals_against': '21', 'goal_difference': '10', 'percentage': '56', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '6', 'team': 'Fluminense - RJ', 'points': '38', 'games': '23', 'wins': '11', 'draws': '5', 'losses': '7', 'goals_for': '33', 'goals_against': '26', 'goal_difference': '7', 'percentage': '55', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '7', 'team': 'Athletico Paranaense - PR', 'points': '37', 'games': '23', 'wins': '10', 'draws': '7', 'losses': '6', 'goals_for': '35', 'goals_against': '26', 'goal_difference': '9', 'percentage': '53', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '8', 'team': 'Fortaleza - CE', 'points': '35', 'games': '23', 'wins': '10', 'draws': '5', 'losses': '8', 'goals_for': '27', 'goals_against': '22', 'goal_difference': '5', 'percentage': '50', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '9', 'team': 'Atlético Mineiro - MG', 'points': '34', 'games': '23', 'wins': '9', 'draws': '7', 'losses': '7', 'goals_for': '26', 'goals_against': '19', 'goal_difference': '7', 'percentage': '49', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '10', 'team': 'Cuiabá Saf - MT', 'points': '29', 'games': '23', 'wins': '8', 'draws': '5', 'losses': '10', 'goals_for': '23', 'goals_against': '29', 'goal_difference': '-6', 'percentage': '42', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '11', 'team': 'Cruzeiro Saf - MG', 'points': '29', 'games': '23', 'wins': '7', 'draws': '8', 'losses': '8', 'goals_for': '23', 'goals_against': '20', 'goal_difference': '3', 'percentage': '42', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '12', 'team': 'Internacional - RS', 'points': '29', 'games': '23', 'wins': '7', 'draws': '8', 'losses': '8', 'goals_for': '19', 'goals_against': '25', 'goal_difference': '-6', 'percentage': '42', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '13', 'team': 'São Paulo - SP', 'points': '28', 'games': '22', 'wins': '7', 'draws': '7', 'losses': '8', 'goals_for': '26', 'goals_against': '23', 'goal_difference': '3', 'percentage': '42', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '14', 'team': 'Corinthians - SP', 'points': '27', 'games': '23', 'wins': '6', 'draws': '9', 'losses': '8', 'goals_for': '27', 'goals_against': '29', 'goal_difference': '-2', 'percentage': '39', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '15', 'team': 'Bahia - BA', 'points': '25', 'games': '24', 'wins': '6', 'draws': '7', 'losses': '11', 'goals_for': '28', 'goals_against': '33', 'goal_difference': '-5', 'percentage': '34', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '16', 'team': 'Goiás - GO', 'points': '25', 'games': '23', 'wins': '6', 'draws': '7', 'losses': '10', 'goals_for': '20', 'goals_against': '30', 'goal_difference': '-10', 'percentage': '36', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '17', 'team': 'Santos - SP', 'points': '24', 'games': '24', 'wins': '6', 'draws': '6', 'losses': '12', 'goals_for': '23', 'goals_against': '40', 'goal_difference': '-17', 'percentage': '33', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '18', 'team': 'Vasco da Gama S.a.f. - RJ', 'points': '20', 'games': '22', 'wins': '5', 'draws': '5', 'losses': '12', 'goals_for': '20', 'goals_against': '33', 'goal_difference': '-13', 'percentage': '30', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '19', 'team': 'America Fc S.a.f. - MG', 'points': '17', 'games': '22', 'wins': '4', 'draws': '5', 'losses': '13', 'goals_for': '26', 'goals_against': '47', 'goal_difference': '-21', 'percentage': '25', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a>
+{'year': 'campeonato-brasileiro-serie-a', 'position': '20', 'team': 'Coritiba S.a.f. - PR', 'points': '14', 'games': '22', 'wins': '3', 'draws': '5', 'losses': '14', 'goals_for': '23', 'goals_against': '46', 'goal_difference': '-23', 'percentage': '21', 'top_player_scorer': {'team': 'Botafogo - RJ', 'name': 'Tiquinho', 'goals': '13'}}
+2023-09-19 09:14:12 [scrapy] INFO: Closing spider (finished)
+2023-09-19 09:14:12 [scrapy] INFO: Stored json feed (20 items) in: output.json
+2023-09-19 09:14:12 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 804,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 195266,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/302': 1,
+ 'elapsed_time_seconds': 8.586374,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 9, 19, 12, 14, 12, 176056),
+ 'httpcompression/response_bytes': 1450926,
+ 'httpcompression/response_count': 1,
+ 'item_scraped_count': 20,
+ 'log_count/DEBUG': 22,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'memusage/max': 115343360,
+ 'memusage/startup': 115343360,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2023, 9, 19, 12, 14, 3, 589682)}
+2023-09-19 09:14:12 [scrapy] INFO: Spider closed (finished)

@@ -1,0 +1,69 @@
+2023-09-23 11:39:55 [scrapy] DEBUG: Crawled (200) <GET https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015> (referer: None)
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '1', 'team': 'Botafogo - RJ', 'points': '72', 'games': '38', 'wins': '21', 'draws': '9', 'losses': '8', 'goals_for': '60', 'goals_against': '30', 'goal_difference': '30', 'percentage': '63', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '2', 'team': 'Santa Cruz - PE', 'points': '67', 'games': '38', 'wins': '20', 'draws': '7', 'losses': '11', 'goals_for': '63', 'goals_against': '43', 'goal_difference': '20', 'percentage': '58', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '3', 'team': 'Vitória - BA', 'points': '66', 'games': '38', 'wins': '19', 'draws': '9', 'losses': '10', 'goals_for': '58', 'goals_against': '40', 'goal_difference': '18', 'percentage': '57', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '4', 'team': 'América - MG', 'points': '65', 'games': '38', 'wins': '19', 'draws': '8', 'losses': '11', 'goals_for': '55', 'goals_against': '39', 'goal_difference': '16', 'percentage': '57', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '5', 'team': 'Náutico - PE', 'points': '63', 'games': '38', 'wins': '18', 'draws': '9', 'losses': '11', 'goals_for': '49', 'goals_against': '42', 'goal_difference': '7', 'percentage': '55', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '6', 'team': 'Bragantino - SP', 'points': '60', 'games': '38', 'wins': '19', 'draws': '3', 'losses': '16', 'goals_for': '56', 'goals_against': '56', 'goal_difference': '0', 'percentage': '52', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '7', 'team': 'Paysandu - PA', 'points': '60', 'games': '38', 'wins': '17', 'draws': '9', 'losses': '12', 'goals_for': '49', 'goals_against': '40', 'goal_difference': '9', 'percentage': '52', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '8', 'team': 'Sampaio Correa - MA', 'points': '58', 'games': '38', 'wins': '15', 'draws': '13', 'losses': '10', 'goals_for': '51', 'goals_against': '43', 'goal_difference': '8', 'percentage': '50', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '9', 'team': 'Bahia - BA', 'points': '58', 'games': '38', 'wins': '15', 'draws': '13', 'losses': '10', 'goals_for': '48', 'goals_against': '41', 'goal_difference': '7', 'percentage': '50', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '10', 'team': 'Luverdense - MT', 'points': '54', 'games': '38', 'wins': '15', 'draws': '9', 'losses': '14', 'goals_for': '46', 'goals_against': '40', 'goal_difference': '6', 'percentage': '47', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '11', 'team': 'Crb - AL', 'points': '54', 'games': '38', 'wins': '15', 'draws': '9', 'losses': '14', 'goals_for': '47', 'goals_against': '45', 'goal_difference': '2', 'percentage': '47', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '12', 'team': 'Criciúma - SC', 'points': '49', 'games': '38', 'wins': '12', 'draws': '13', 'losses': '13', 'goals_for': '36', 'goals_against': '41', 'goal_difference': '-5', 'percentage': '42', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '13', 'team': 'Paraná - PR', 'points': '47', 'games': '38', 'wins': '12', 'draws': '11', 'losses': '15', 'goals_for': '39', 'goals_against': '43', 'goal_difference': '-4', 'percentage': '41', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '14', 'team': 'Atlético - GO', 'points': '46', 'games': '38', 'wins': '11', 'draws': '13', 'losses': '14', 'goals_for': '36', 'goals_against': '46', 'goal_difference': '-10', 'percentage': '40', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '15', 'team': 'Ceará - CE', 'points': '45', 'games': '38', 'wins': '12', 'draws': '9', 'losses': '17', 'goals_for': '42', 'goals_against': '50', 'goal_difference': '-8', 'percentage': '39', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '16', 'team': 'Oeste - SP', 'points': '44', 'games': '38', 'wins': '10', 'draws': '14', 'losses': '14', 'goals_for': '37', 'goals_against': '45', 'goal_difference': '-8', 'percentage': '38', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '17', 'team': 'Macaé - RJ', 'points': '43', 'games': '38', 'wins': '10', 'draws': '13', 'losses': '15', 'goals_for': '46', 'goals_against': '54', 'goal_difference': '-8', 'percentage': '37', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '18', 'team': 'Abc - RN', 'points': '32', 'games': '38', 'wins': '6', 'draws': '14', 'losses': '18', 'goals_for': '41', 'goals_against': '64', 'goal_difference': '-23', 'percentage': '28', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '19', 'team': 'Boa - MG', 'points': '31', 'games': '38', 'wins': '7', 'draws': '10', 'losses': '21', 'goals_for': '34', 'goals_against': '54', 'goal_difference': '-20', 'percentage': '27', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2015>
+{'year': '2015', 'position': '20', 'team': 'Mogi Mirim - SP', 'points': '23', 'games': '38', 'wins': '4', 'draws': '11', 'losses': '23', 'goals_for': '32', 'goals_against': '69', 'goal_difference': '-37', 'percentage': '20', 'top_player_scorer': {'team': 'Crb - AL', 'name': 'Ze Carlos', 'goals': '19'}}
+2023-09-23 11:39:55 [scrapy] INFO: Closing spider (finished)
+2023-09-23 11:39:55 [scrapy] INFO: Stored json feed (20 items) in: output.json
+2023-09-23 11:39:55 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 280,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 157514,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 6.260601,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 9, 23, 14, 39, 55, 530996),
+ 'httpcompression/response_bytes': 1203085,
+ 'httpcompression/response_count': 1,
+ 'item_scraped_count': 20,
+ 'log_count/DEBUG': 21,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'memusage/max': 176787456,
+ 'memusage/startup': 176787456,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2023, 9, 23, 14, 39, 49, 270395)}
+2023-09-23 11:39:55 [scrapy] INFO: Spider closed (finished)

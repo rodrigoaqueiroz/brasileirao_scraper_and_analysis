@@ -1,0 +1,8 @@
+geopandas==0.13.2
+jupyter==1.0.0
+notebook==6.5.4
+pandas==2.1.0
+requests==2.31.0
+requests-file==1.5.1
+Scrapy==2.10.0
+scrapyrt==0.14.0

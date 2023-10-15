@@ -1,0 +1,69 @@
+2023-09-19 14:44:23 [scrapy] DEBUG: Crawled (200) <GET https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013> (referer: None)
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '1', 'team': 'Cruzeiro - MG', 'points': '76', 'games': '38', 'wins': '23', 'draws': '7', 'losses': '8', 'goals_for': '77', 'goals_against': '37', 'goal_difference': '40', 'percentage': '66', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '2', 'team': 'Grêmio - RS', 'points': '65', 'games': '38', 'wins': '18', 'draws': '11', 'losses': '9', 'goals_for': '42', 'goals_against': '35', 'goal_difference': '7', 'percentage': '57', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '3', 'team': 'Atlético Paranaense - PR', 'points': '64', 'games': '38', 'wins': '18', 'draws': '10', 'losses': '10', 'goals_for': '65', 'goals_against': '49', 'goal_difference': '16', 'percentage': '56', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '4', 'team': 'Botafogo - RJ', 'points': '61', 'games': '38', 'wins': '17', 'draws': '10', 'losses': '11', 'goals_for': '55', 'goals_against': '41', 'goal_difference': '14', 'percentage': '53', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '5', 'team': 'Vitória - BA', 'points': '59', 'games': '38', 'wins': '16', 'draws': '11', 'losses': '11', 'goals_for': '59', 'goals_against': '53', 'goal_difference': '6', 'percentage': '51', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '6', 'team': 'Goiás - GO', 'points': '59', 'games': '38', 'wins': '16', 'draws': '11', 'losses': '11', 'goals_for': '48', 'goals_against': '44', 'goal_difference': '4', 'percentage': '51', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '7', 'team': 'Santos - SP', 'points': '57', 'games': '38', 'wins': '15', 'draws': '12', 'losses': '11', 'goals_for': '51', 'goals_against': '38', 'goal_difference': '13', 'percentage': '50', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '8', 'team': 'Atlético - MG', 'points': '57', 'games': '38', 'wins': '15', 'draws': '12', 'losses': '11', 'goals_for': '49', 'goals_against': '38', 'goal_difference': '11', 'percentage': '50', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '9', 'team': 'São Paulo - SP', 'points': '50', 'games': '38', 'wins': '14', 'draws': '8', 'losses': '16', 'goals_for': '39', 'goals_against': '40', 'goal_difference': '-1', 'percentage': '43', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '10', 'team': 'Corinthians - SP', 'points': '50', 'games': '38', 'wins': '11', 'draws': '17', 'losses': '10', 'goals_for': '27', 'goals_against': '22', 'goal_difference': '5', 'percentage': '43', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '11', 'team': 'Coritiba - PR', 'points': '48', 'games': '38', 'wins': '12', 'draws': '12', 'losses': '14', 'goals_for': '42', 'goals_against': '45', 'goal_difference': '-3', 'percentage': '42', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '12', 'team': 'Bahia - BA', 'points': '48', 'games': '38', 'wins': '12', 'draws': '12', 'losses': '14', 'goals_for': '37', 'goals_against': '45', 'goal_difference': '-8', 'percentage': '42', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '13', 'team': 'Internacional - RS', 'points': '48', 'games': '38', 'wins': '11', 'draws': '15', 'losses': '12', 'goals_for': '51', 'goals_against': '52', 'goal_difference': '-1', 'percentage': '42', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '14', 'team': 'Criciuma - SC', 'points': '46', 'games': '38', 'wins': '13', 'draws': '7', 'losses': '18', 'goals_for': '49', 'goals_against': '63', 'goal_difference': '-14', 'percentage': '40', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '15', 'team': 'Fluminense - RJ', 'points': '46', 'games': '38', 'wins': '12', 'draws': '10', 'losses': '16', 'goals_for': '43', 'goals_against': '47', 'goal_difference': '-4', 'percentage': '40', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '16', 'team': 'Flamengo - RJ', 'points': '45', 'games': '38', 'wins': '12', 'draws': '13', 'losses': '13', 'goals_for': '43', 'goals_against': '46', 'goal_difference': '-3', 'percentage': '39', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '17', 'team': 'Portuguesa - SP', 'points': '44', 'games': '38', 'wins': '12', 'draws': '12', 'losses': '14', 'goals_for': '50', 'goals_against': '46', 'goal_difference': '4', 'percentage': '38', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '18', 'team': 'Vasco da Gama - RJ', 'points': '44', 'games': '38', 'wins': '11', 'draws': '11', 'losses': '16', 'goals_for': '50', 'goals_against': '61', 'goal_difference': '-11', 'percentage': '38', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '19', 'team': 'Ponte Preta - SP', 'points': '37', 'games': '38', 'wins': '9', 'draws': '10', 'losses': '19', 'goals_for': '37', 'goals_against': '55', 'goal_difference': '-18', 'percentage': '32', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] DEBUG: Scraped from <200 https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2013>
+{'year': '2013', 'position': '20', 'team': 'Náutico - PE', 'points': '20', 'games': '38', 'wins': '5', 'draws': '5', 'losses': '28', 'goals_for': '22', 'goals_against': '79', 'goal_difference': '-57', 'percentage': '17', 'top_player_scorer': {'team': 'Atlético Paranaense - PR', 'name': 'Ederson', 'goals': '21'}}
+2023-09-19 14:44:23 [scrapy] INFO: Closing spider (finished)
+2023-09-19 14:44:23 [scrapy] INFO: Stored json feed (20 items) in: output.json
+2023-09-19 14:44:23 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 280,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 164217,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 5.056694,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 9, 19, 17, 44, 23, 963615),
+ 'httpcompression/response_bytes': 1212071,
+ 'httpcompression/response_count': 1,
+ 'item_scraped_count': 20,
+ 'log_count/DEBUG': 21,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'memusage/max': 98385920,
+ 'memusage/startup': 98385920,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2023, 9, 19, 17, 44, 18, 906921)}
+2023-09-19 14:44:23 [scrapy] INFO: Spider closed (finished)
