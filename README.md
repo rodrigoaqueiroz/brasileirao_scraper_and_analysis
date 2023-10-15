@@ -55,7 +55,8 @@ O comando scrapyrt erá usado para iniciar a API responsável por fornecer os da
 
 Além disso, disponibilizei o arquivo 'output.json' com os dados extraídos no dia 15/10/2023. Portanto, se preferir evitar a raspagem em tempo real e realizar a análise estática, o arquivo 'output.json' pode ser usado para esse fim.
 
-O notebook contendo a análise dos dados está localizado na raiz do projeto com o título 'Analysis.ipynb'. Há também uma versão em inglês do mesmo notebook intitulada 'Analysis-EN.ipynb';
+O notebook contendo a análise dos dados está localizado na raiz do projeto com o título 'Analysis.ipynb'. Há também uma versão em inglês do mesmo notebook intitulada 'Analysis-EN.ipynb'
+
 ---
 
 # Descobertas
