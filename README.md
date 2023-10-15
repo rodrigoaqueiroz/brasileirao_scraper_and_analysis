@@ -42,7 +42,7 @@ $ source .venv/bin/activate
 Instalar as dependências do projeto
 
 ```bash
-$ python3 -m pip install -r dev-requirements.txt
+$ python3 -m pip install -r requirements.txt
 ```
 
 Na pasta do projeto, rodar o scrapyrt:
